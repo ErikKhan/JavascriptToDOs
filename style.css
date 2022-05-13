@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#tasks{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#tasks li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
